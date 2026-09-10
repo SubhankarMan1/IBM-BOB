@@ -1,1 +1,1 @@
-# IBM-BOB
+# Smart Study Generator Agent
